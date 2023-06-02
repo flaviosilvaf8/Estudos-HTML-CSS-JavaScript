@@ -1,0 +1,1 @@
+console.log(document.getElementById('titulo-principal')); //irá acessar o elemento H1 pelo metodo, procurando pelo ID

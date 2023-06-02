@@ -1,0 +1,1 @@
+alert("Esta é a mensagem!");//será chamado um alerta na pagina com a mensagem setada.
